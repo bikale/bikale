@@ -20,18 +20,20 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bikale&repo=FarmerMarektplace&theme=vue-dark" />
 </a>
 
-
-
   <a href="https://github.com/bikale/graphql-react-eventBooking">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bikale&repo=graphql-react-eventBooking&theme=vue-dark" />
 </a>
+![Bikale's github stats](https://github-readme-stats.vercel.app/api?username=bikale&count_private=true&show_icons=true&theme=vue-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikale&layout=compact)](https://github.com/bikale/github-readme-stats)
 -->
 <br/>
 <br/>
+  <a href="https://github.com/bikale">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bikale&count_private=true&show_icons=true&theme=vue-dark" />
+</a>
+ <a href="https://github.com/bikale/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikale&layout=compact" />
+</a>
 
 
-
-![Bikale's github stats](https://github-readme-stats.vercel.app/api?username=bikale&count_private=true&show_icons=true&theme=vue-dark)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikale&layout=compact)](https://github.com/bikale/github-readme-stats)
