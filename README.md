@@ -15,6 +15,7 @@
 <br/>
 <br/>
 
+<!--
 <a href="https://github.com/bikale/FarmerMarektplace">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bikale&repo=FarmerMarektplace&theme=vue-dark" />
 </a>
@@ -24,7 +25,7 @@
   <a href="https://github.com/bikale/graphql-react-eventBooking">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bikale&repo=graphql-react-eventBooking&theme=vue-dark" />
 </a>
-
+-->
 <br/>
 <br/>
 
