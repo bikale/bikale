@@ -33,7 +33,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bikale&count_private=true&show_icons=true&theme=vue-dark" />
 </a>
  <a href="https://github.com/bikale/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikale&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikale&layout=compact&langs_count=8" />
 </a>
 
 
