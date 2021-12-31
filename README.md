@@ -1,6 +1,5 @@
 ## Bikale Aberra 👋
 
-### I'm Full stack web developer working on NodeJs,React.js,ReactNative,Angular,MongoDB,GraphQL ...
 
 - 🔭 I’m currently working 🤔
 - 🌱 I’m currently learning AWS
@@ -26,7 +25,7 @@
 ![Bikale's github stats](https://github-readme-stats.vercel.app/api?username=bikale&count_private=true&show_icons=true&theme=vue-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikale&layout=compact)](https://github.com/bikale/github-readme-stats)
--->
+
 <br/>
 <br/>
   <a href="https://github.com/bikale">
@@ -35,5 +34,5 @@
  <a href="https://github.com/bikale/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikale&layout=compact&langs_count=8" />
 </a>
-
+-->
 
