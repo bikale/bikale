@@ -1,4 +1,4 @@
-## Bikale Aberra  👋🏿
+## Bikale G  👋🏿
 
 - 🔭 I’m currently working 🤔
 - 🌱 I’m currently learning AWS
