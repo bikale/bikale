@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working 🤔
 - 🌱 I’m currently learning AWS
-- 🤜🏿 I’m looking to collaborate on react/Spring/Graphql/Nodejs
+- 🤜🏿 I’m looking to collaborate on react / Spring / Graphql / Nodejs
 - 📫 How to reach me: [bikale.dev](https://bikale.dev) | [Twitter](https://twitter.com/BikaleAberra) | [LinkedIn](https://www.linkedin.com/in/bikaleaberra/)  | [contact@bikale.dev](mailto:contact@bikale.dev)
 <!--
 - 🤔 I’m looking for help with ...
